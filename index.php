@@ -109,8 +109,8 @@
             <br>
             <br>
             <p>
-                                    <a href="step.html" class="btn  btn-outline-primary my-2">Download Documents</a>
-                    <a href="step.html" class="btn btn-primary my-2">View Documents</a>
+                                    <a href="step.php" class="btn  btn-outline-primary my-2">Download Documents</a>
+                    <a href="step.php" class="btn btn-primary my-2">View Documents</a>
                             </p>
 
           </div>
